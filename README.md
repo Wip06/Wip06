@@ -1,4 +1,3 @@
-[Améliorer page GitHub README (2).md](https://github.com/user-attachments/files/25884615/Ameliorer.page.GitHub.README.2.md)
 <div align="center">
 
 # Yannick Candela
@@ -61,7 +60,7 @@ Final-year student at **École 42**, transitioning toward web and mobile develop
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wip06&show_icons=true&theme=github_dark&hide_border=true&hide=prs,issues,contribs)
+![Wip06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wip06&show_icons=true&theme=radical)
 
 </div>
 
