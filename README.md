@@ -1,4 +1,4 @@
-[Améliorer page GitHub README.md](https://github.com/user-attachments/files/25884525/Ameliorer.page.GitHub.README.md)
+[Améliorer page GitHub README (1).md](https://github.com/user-attachments/files/25884547/Ameliorer.page.GitHub.README.1.md)
 <div align="center">
 
 # Yannick Candela
@@ -61,7 +61,7 @@ Final-year student at **École 42**, transitioning toward web and mobile develop
 
 <div align="center">
 
-![Activity Graph](https://ghchart.ssh.surf/Wip06)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wip06&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
