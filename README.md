@@ -67,5 +67,5 @@ Final-year student at **École 42**, transitioning toward web and mobile develop
 ---
 
 <div align="center">
-<sub>École 42 · Nice</sub>
+<sub>École 42 Nice</sub>
 </div>
