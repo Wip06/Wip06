@@ -1,4 +1,4 @@
-[Améliorer page GitHub README (1).md](https://github.com/user-attachments/files/25884445/Ameliorer.page.GitHub.README.1.md)
+[Améliorer page GitHub README.md](https://github.com/user-attachments/files/25884525/Ameliorer.page.GitHub.README.md)
 <div align="center">
 
 # Yannick Candela
@@ -20,6 +20,11 @@ Final-year student at **École 42**, transitioning toward web and mobile develop
 ---
 
 ## Tech Stack
+
+**Systems & Low-Level**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Web & Frontend**
 
@@ -56,10 +61,6 @@ Final-year student at **École 42**, transitioning toward web and mobile develop
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Wip06&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wip06&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
-
 ![Activity Graph](https://ghchart.ssh.surf/Wip06)
 
 </div>
@@ -67,5 +68,5 @@ Final-year student at **École 42**, transitioning toward web and mobile develop
 ---
 
 <div align="center">
-<sub>École 42 · Paris</sub>
+<sub>École 42 · Nice</sub>
 </div>
