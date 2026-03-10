@@ -60,8 +60,7 @@ Final-year student at **École 42**, transitioning toward web and mobile develop
 
 <div align="center">
 
-![Wip06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wip06&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wip06&layout=donut-vertical)](https://github.com/Wip06/github-readme-stats)
 </div>
 
 ---
